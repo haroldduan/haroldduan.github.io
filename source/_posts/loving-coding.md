@@ -1,5 +1,5 @@
 ---
-title: loving-coding
+title: Loving Coding
 date: 2017-08-10 10:37:53
 tags:
   - Life
