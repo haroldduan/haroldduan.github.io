@@ -4,6 +4,7 @@ date: 2017-08-10 10:37:53
 tags:
   - Life
   - Daily Note
+comments: true
 ---
 
 # For coding,for life,for future…
