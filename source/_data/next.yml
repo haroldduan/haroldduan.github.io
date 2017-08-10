@@ -14,7 +14,7 @@ keywords: "Hexo, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2015
 
 # icon between year and author @Footer
 authoricon: heart
@@ -79,8 +79,8 @@ menu_icons:
 # Schemes
 #scheme: Muse
 #scheme: Mist
-scheme: Pisces
-#scheme: Gemini
+#scheme: Pisces
+scheme: Gemini
 
 
 # ---------------------------------------------------------------
@@ -125,11 +125,15 @@ social_icons:
   OSChina: oschina
 
 # Blog rolls
-#links_title: Links
-#links_layout: block
+links_title: Links | 友情链接
+links_layout: block
 #links_layout: inline
-#links:
-  #Title: http://example.com/
+links:
+  Color-Coding Studio: https://github.com/color-coding
+  Color-Design Studio: https://github.com/color-design
+  Hacking Group: https://github.com/HackingGroup
+  NiurenZhu: https://github.com/NiurenZhu
+  XiaoCC: https://github.com/cyitianyou
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
@@ -554,7 +558,7 @@ use_motion: true
 fancybox: true
 
 # Progress bar in the top during page loading.
-pace: false
+pace: true
 # Themes list:
 #pace-theme-big-counter
 #pace-theme-bounce
@@ -574,16 +578,16 @@ pace: false
 pace_theme: pace-theme-minimal
 
 # Canvas-nest
-canvas_nest: false
+canvas_nest: true
 
 # three_waves
-three_waves: false
+three_waves: true
 
 # canvas_lines
-canvas_lines: false
+canvas_lines: true
 
 # canvas_sphere
-canvas_sphere: false
+canvas_sphere: true
 
 # Only fit scheme Pisces
 # Canvas-ribbon
