@@ -81,3 +81,9 @@ deploy:
   repo: https://github.com/haroldduan/haroldduan.github.io.git
   branch: master
   message: Commit my blog pull request.
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
