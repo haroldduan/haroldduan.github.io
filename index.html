@@ -533,15 +533,15 @@
 
       
         
-          
-            <p><a href="http://bj2016.archsummit.com/" title="ArchSummit 2016" target="_blank" rel="external">ArchSummit 2016</a></p>
+          <p><a href="http://bj2016.archsummit.com/" title="ArchSummit 2016" target="_blank" rel="external">ArchSummit 2016</a></p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">ArchSummit全球架构师峰会是InfoQ中国团队推出的面向高端技术管理者、架构师的技术大会，</div><div class="line">参会者中超过50%拥有8年以上的工作经验。ArchSummit秉承“实践第一、案例为主”的原则，</div><div class="line">展示新技术在行业应用中的最新实践，技术在企业转型中的加速作用，</div><div class="line">帮助企业技术管理者、CTO、架构师做好技术选型、技术团队组建与管理，</div><div class="line">并确立技术对于产品和业务的关键作用。</div></pre></td></tr></table></figure>
-<blockquote>
-<h3 id="Arch-Summit"><a href="#Arch-Summit" class="headerlink" title="Arch Summit"></a>Arch Summit</h3><p><em>ArchSummit 2016 相关文档及视频，如下：</em><br><a href="https://github.com/Geekbang/ArchSummit" title="ArchSummit Documents" target="_blank" rel="external">ArchSummit Documents</a></p>
-<p><strong><em>Author:</em></strong><br><a href="https://github.com/Geekbang" title="Geekbang" target="_blank" rel="external">Geekbang</a></p>
-</blockquote>
-
-          
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2017/08/12/arch-summit/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
         
       
     </div>
@@ -781,18 +781,15 @@
 
       
         
-          
-            <h1 id="Docker-Study"><a href="#Docker-Study" class="headerlink" title="Docker Study"></a>Docker Study</h1><p><a href="https://hub.docker.com/" title="Docker" target="_blank" rel="external">Docker</a></p>
+          <h1 id="Docker-Study"><a href="#Docker-Study" class="headerlink" title="Docker Study"></a>Docker Study</h1><p><a href="https://hub.docker.com/" title="Docker" target="_blank" rel="external">Docker</a></p>
 <h3 id="Docker-简介"><a href="#Docker-简介" class="headerlink" title="Docker 简介"></a>Docker 简介</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">Docker是一个开源的引擎，</div><div class="line">可以轻松的为任何应用创建一个轻量级的、可移植的、自给自足的容器。</div><div class="line">开发者在笔记本上编译测试通过的容器可以批量地在生产环境中部署，</div><div class="line">包括VMs（虚拟机）、bare metal、OpenStack 集群和其他的基础应用平台</div></pre></td></tr></table></figure>
-<h3 id="Docker-应用实例-探索篇"><a href="#Docker-应用实例-探索篇" class="headerlink" title="Docker 应用实例-探索篇"></a>Docker 应用实例-探索篇</h3><p><a href="https://github.com/cyitianyou/dockers4ibcp" title="Docker App" target="_blank" rel="external">Docker App</a></p>
-<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div></pre></td><td class="code"><pre><div class="line">dockers4ibcp</div><div class="line"></div><div class="line">使用说明 | instructions</div><div class="line">build_dockerfile4all.sh 使用dockerfile4all创建容器镜像，且拷贝ibcp.app.xml，ibcp.service_routing.xml到容器的ibcp配置目录。</div><div class="line">deploy_ibcp_all.sh 下载并部署ibcp全部模块。</div><div class="line">initialize_datastructures.sh 初始化数据结构。</div><div class="line">使用时注意提前修改配置文件内容。</div><div class="line">测试环境时，配置文件中涉及的主机，建议修改本机host文件指向。</div><div class="line">脚本中使用了额外文件作为初始化顺序说明。</div><div class="line"></div><div class="line">启动 | running</div><div class="line">docker run –name ibcp-srv-db -p 3306:3306 -d -e MYSQL_ROOT_PASSWORD=1q2w3e mysql:5.7 启动MYSQL容器</div><div class="line">docker run –name=ibcp-srv-app-01 –link=ibcp-srv-db -p 8080:8080 -d ibcp-all:1476945979 启动ibcp容器</div><div class="line">docker exec -it ibcp-srv-app-01 ./ibcp_tools/initialize_datastructures.sh 执行ibcp容器中数据结构</div><div class="line"></div><div class="line">修改访问主机host：192.168.3.60 ibcp-srv-app</div></pre></td></tr></table></figure>
-<p><strong><em>Author:</em></strong></p>
-<ul>
-<li><a href="https://github.com/NiurenZhu" title="NiurenZhu" target="_blank" rel="external">NiurenZhu</a></li>
-<li><a href="https://github.com/cyitianyou" title="XiaoCangcang" target="_blank" rel="external">XiaoCangcang</a></li>
-</ul>
-
-          
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/2017/08/12/coding-life/#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
         
       
     </div>
