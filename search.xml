@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Arch Summit]]></title>
+    <url>%2F2017%2F08%2F12%2Farch-summit%2F</url>
+    <content type="text"><![CDATA[ArchSummit 2016 12345ArchSummit全球架构师峰会是InfoQ中国团队推出的面向高端技术管理者、架构师的技术大会，参会者中超过50%拥有8年以上的工作经验。ArchSummit秉承“实践第一、案例为主”的原则，展示新技术在行业应用中的最新实践，技术在企业转型中的加速作用，帮助企业技术管理者、CTO、架构师做好技术选型、技术团队组建与管理，并确立技术对于产品和业务的关键作用。 Arch SummitArchSummit 2016 相关文档及视频，如下：ArchSummit Documents Author:Geekbang]]></content>
+      <tags>
+        <tag>Daily Note</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[The Peach Blossom Fan]]></title>
     <url>%2F2017%2F08%2F12%2Fthe-peach-blossom-fan%2F</url>
     <content type="text"><![CDATA[俺曾见金陵玉殿莺啼晓，秦淮水榭花开早，谁知道容易冰消！眼看他起朱楼，眼看他宴宾客，眼看他楼塌了！这青苔碧瓦堆，俺曾睡风流觉，将五十年兴亡看饱。那乌衣巷不姓王，莫愁湖鬼夜哭，凤凰台栖枭鸟。残山梦最真，旧境丢难掉，不信这舆图换稿！诌一套《哀江南》，放悲声唱到老。]]></content>
       <tags>
         <tag>Daily Note</tag>
-        <tag>Coding Life</tag>
       </tags>
   </entry>
   <entry>
@@ -22,8 +29,8 @@
     <url>%2F2017%2F08%2F10%2Floving-coding%2F</url>
     <content type="text"><![CDATA[For coding,for life,for future…12345It is the timing…New Beginning…New Coding…New Life…New Future….]]></content>
       <tags>
-        <tag>Life</tag>
         <tag>Daily Note</tag>
+        <tag>Life</tag>
       </tags>
   </entry>
 </search>
