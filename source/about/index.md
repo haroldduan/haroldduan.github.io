@@ -4,11 +4,11 @@ date: 2017-08-10 12:38:22
 type: "about"
 ---
 
-## 段菡(haroldduan)
+>## 段菡(haroldduan)
 
-.net/java 程序开发工程师
-毕业于 东北大学
-曾就职于 北京奥维奥科技有限公司 从事SAP软件开发工作
+>.net/java 程序开发工程师
+>毕业于 东北大学
+>曾就职于 北京奥维奥科技有限公司 从事SAP软件开发工作
 
 
 
@@ -24,15 +24,15 @@ OtherLang,  1, 2, 3, 5, 7, 5, 3, 5, 3, 5
 %}
 
 
+<br>
 
 {% raw %}
 <script type="text/javascript" src="http://www.xiami.com/widget/player-single?uid=0&sid=1775751240&mode=js"></script> 
 {% endraw %}
 
-<br>
 
 
-特别鸣谢：
-NiurenZhu
-LenoZhan
-NeilZhou
+>**特别鸣谢：**
+>*NiurenZhu*
+>*LenoZhan*
+>*NeilZhou*
