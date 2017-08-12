@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-12T08:34:41.000Z</updated>
+  <updated>2017-08-12T08:39:05.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,9 +20,10 @@
     <link href="http://yoursite.com/2017/08/12/vim-cool-weapon/"/>
     <id>http://yoursite.com/2017/08/12/vim-cool-weapon/</id>
     <published>2017-08-12T07:59:21.000Z</published>
-    <updated>2017-08-12T08:34:41.000Z</updated>
+    <updated>2017-08-12T08:39:05.000Z</updated>
     
     <content type="html"><![CDATA[<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">Vim: Cool Weapon</div></pre></td></tr></table></figure>
+<a id="more"></a>
 <blockquote>
 <h3 id="Vim"><a href="#Vim" class="headerlink" title="Vim"></a><em><a href="http://www.vim.org/" title="Vim" target="_blank" rel="external">Vim</a></em></h3><p> <img src="/2017/08/12/vim-cool-weapon/vim-cool-weapon_0.png" width="50" height="50" alt="Vim" align="left"><br> Vim是从vi发展出来的一个文本编辑器。<br> 代码补完、编译及错误跳转等方便编程的功能特别丰富，<br> 在程序员中被广泛使用。和Emacs并列成为类Unix系统用户最喜欢的编辑器。<br> Vim的第一个版本由布莱姆·米勒在1991年发布。<br> 最初的简称是Vi IMitation，随着功能的不断增加，正式名称改成了Vi IMproved。<br> 现在是在开放源代码方式下发行的自由软件。</p>
 <h3 id="Vim-Wiki"><a href="#Vim-Wiki" class="headerlink" title="Vim Wiki"></a><em><a href="https://zh.wikipedia.org/wiki/Vim" title="Vim Wiki" target="_blank" rel="external">Vim Wiki</a></em></h3></blockquote>
@@ -37,7 +38,7 @@
     
     <summary type="html">
     
-      &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;lin
+      &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;Vim: Cool Weapon&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
     
     </summary>
     
