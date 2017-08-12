@@ -45,6 +45,6 @@ docker exec -it ibcp-srv-app-01 ./ibcp_tools/initialize_datastructures.sh 执行
 + [XiaoCangcang][lnk_XiaoCangcang]
 
 [lnk_Docker]: https://hub.docker.com/ "Docker"
-[lnk_DockerApp]: https://github.com/cyitianyou/dockers4ibcp "docker app"
+[lnk_DockerApp]: https://github.com/cyitianyou/dockers4ibcp "Docker App"
 [lnk_NiurenZhu]: https://github.com/NiurenZhu "NiurenZhu"
 [lnk_XiaoCangcang]: https://github.com/cyitianyou "XiaoCangcang"
