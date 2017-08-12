@@ -17,6 +17,8 @@ Docker是一个开源的引擎，
 包括VMs（虚拟机）、bare metal、OpenStack 集群和其他的基础应用平台
 ```
 
+<!--more-->
+
 ### Docker 应用实例-探索篇
 
 [Docker App][lnk_DockerApp]

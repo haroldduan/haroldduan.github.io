@@ -14,6 +14,8 @@ ArchSummit全球架构师峰会是InfoQ中国团队推出的面向高端技术�
 并确立技术对于产品和业务的关键作用。
 ```
 
+<!--more-->
+
 >### Arch Summit
 >*ArchSummit 2016 相关文档及视频，如下：*
 >[ArchSummit Documents][lnk_ArchSummitDocuments]
