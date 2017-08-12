@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-12T06:56:44.000Z</updated>
+  <updated>2017-08-12T07:19:06.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>The Peach Blossom Fan</title>
+    <link href="http://yoursite.com/2017/08/12/the-peach-blossom-fan/"/>
+    <id>http://yoursite.com/2017/08/12/the-peach-blossom-fan/</id>
+    <published>2017-08-12T07:06:05.000Z</published>
+    <updated>2017-08-12T07:19:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p><strong>俺曾见金陵玉殿莺啼晓，秦淮水榭花开早，谁知道容易冰消！</strong><br><strong>眼看他起朱楼，眼看他宴宾客，眼看他楼塌了！</strong><br><strong>这青苔碧瓦堆，俺曾睡风流觉，将五十年兴亡看饱。</strong><br><strong>那乌衣巷不姓王，莫愁湖鬼夜哭，凤凰台栖枭鸟。</strong><br><strong>残山梦最真，旧境丢难掉，不信这舆图换稿！</strong><br><strong>诌一套《哀江南》，放悲声唱到老。</strong></p>
+<p><img src="/2017/08/12/the-peach-blossom-fan/the-peach-blossom-fan_0.jpg" alt="the-peach-blossom-fan" title="The Peach Blossom Fan"> </p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;俺曾见金陵玉殿莺啼晓，秦淮水榭花开早，谁知道容易冰消！&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;眼看他起朱楼，眼看他宴宾客，眼看他楼塌了！&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;这青苔碧瓦堆，俺曾睡风流觉，将五十年兴亡看饱。&lt;/s
+    
+    </summary>
+    
+    
+      <category term="Daily Note" scheme="http://yoursite.com/tags/Daily-Note/"/>
+    
+      <category term="Coding Life" scheme="http://yoursite.com/tags/Coding-Life/"/>
+    
+  </entry>
   
   <entry>
     <title>Coding Life</title>
