@@ -1,7 +1,8 @@
 ---
 title: Operating System
 date: 2017-08-14 09:48:18
-tags: Tech
+tags: Learning Memo
+categories: Tech
 ---
 
 ## [Operating System][lnk_OSWiki]

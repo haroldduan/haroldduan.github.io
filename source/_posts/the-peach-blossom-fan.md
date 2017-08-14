@@ -3,6 +3,7 @@ title: The Peach Blossom Fan
 date: 2017-08-12 15:06:05
 tags: 
     - Daily Note
+categories: Life
 ---
 
 >**俺曾见金陵玉殿莺啼晓，秦淮水榭花开早，谁知道容易冰消！**

@@ -2,6 +2,7 @@
 title: Arch Summit
 date: 2017-08-12 15:42:37
 tags: Daily Note
+categories: Tech
 ---
 
 [ArchSummit 2016][lnk_ArchSummit]
