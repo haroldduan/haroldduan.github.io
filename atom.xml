@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-14T06:04:10.000Z</updated>
+  <updated>2017-08-14T06:35:18.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>New Testament ·［Mk］Mark</title>
+    <link href="http://yoursite.com/2017/08/14/new-testament/"/>
+    <id>http://yoursite.com/2017/08/14/new-testament/</id>
+    <published>2017-08-14T06:21:17.000Z</published>
+    <updated>2017-08-14T06:35:18.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>They sent some Pharisees and Herodians to him to ensnare him in his speech.<br> They came and said to him,<br> “Teacher, we know that you are a truthful man and that you are not concerned with anyone’s opinion.<br> You do not regard a person’s status but teach the way of God in accordance with the truth.<br> Is it lawful to pay the census tax to Caesar or not? Should we pay or should we not pay?”<br> Knowing their hypocrisy he said to them, “Why are you testing me? Bring me a denarius to look at.”<br> They brought one to him and he said to them, “Whose image and inscription is this?”<br> They replied to him, “Caesar’s.”<br> So Jesus said to them,<br> <strong>“Repay to Caesar what belongs to Caesar and to God what belongs to God.“</strong><br> They were utterly amazed at him.</p>
+</blockquote>
+<p><img src="/2017/08/14/new-testament/new-testament_0.jpg" alt="Holy Bible" title="Holy Bible"></p>
+<a id="more"></a>
+<hr>
+<p><img src="/2017/08/14/new-testament/new-testament_1.png" width="30" height="50" alt="" align="left"> <strong><em>Repay to Caesar what belongs to Caesar and to God what belongs to God.</em></strong></p>
+<hr>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;They sent some Pharisees and Herodians to him to ensnare him in his speech.&lt;br&gt; They came and said to him,&lt;br&gt; “Teacher, we know that you are a truthful man and that you are not concerned with anyone’s opinion.&lt;br&gt; You do not regard a person’s status but teach the way of God in accordance with the truth.&lt;br&gt; Is it lawful to pay the census tax to Caesar or not? Should we pay or should we not pay?”&lt;br&gt; Knowing their hypocrisy he said to them, “Why are you testing me? Bring me a denarius to look at.”&lt;br&gt; They brought one to him and he said to them, “Whose image and inscription is this?”&lt;br&gt; They replied to him, “Caesar’s.”&lt;br&gt; So Jesus said to them,&lt;br&gt; &lt;strong&gt;“Repay to Caesar what belongs to Caesar and to God what belongs to God.“&lt;/strong&gt;&lt;br&gt; They were utterly amazed at him.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/2017/08/14/new-testament/new-testament_0.jpg&quot; alt=&quot;Holy Bible&quot; title=&quot;Holy Bible&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Life" scheme="http://yoursite.com/categories/Life/"/>
+    
+    
+      <category term="Daily Note" scheme="http://yoursite.com/tags/Daily-Note/"/>
+    
+  </entry>
   
   <entry>
     <title>Lazy Welfare -- LiveReload</title>

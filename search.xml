@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[New Testament ·［Mk］Mark]]></title>
+    <url>%2F2017%2F08%2F14%2Fnew-testament%2F</url>
+    <content type="text"><![CDATA[They sent some Pharisees and Herodians to him to ensnare him in his speech. They came and said to him, “Teacher, we know that you are a truthful man and that you are not concerned with anyone’s opinion. You do not regard a person’s status but teach the way of God in accordance with the truth. Is it lawful to pay the census tax to Caesar or not? Should we pay or should we not pay?” Knowing their hypocrisy he said to them, “Why are you testing me? Bring me a denarius to look at.” They brought one to him and he said to them, “Whose image and inscription is this?” They replied to him, “Caesar’s.” So Jesus said to them, “Repay to Caesar what belongs to Caesar and to God what belongs to God.“ They were utterly amazed at him. Repay to Caesar what belongs to Caesar and to God what belongs to God.]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
+      <tags>
+        <tag>Daily Note</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Lazy Welfare -- LiveReload]]></title>
     <url>%2F2017%2F08%2F14%2Flazy-welfare-livereload%2F</url>
     <content type="text"><![CDATA[LiveReload 懒人福利 安装LiveReloadChrome Application 配置LiveReload 添加网站文件夹路径 选择需要监视的文件 启动LiveReload LiveReload效果 代码更改前页面 代码文件 代码更改后页面 代码文件 Node.js 利器 使用 gulp-livereload，可以实时保存刷新，那样就不用按F5和切换界面了， 无形中省了好多时间，有没有！ Gulp.js：比 Grunt 更简单的自动化项目构建工具 gulp-livereload：顾名思义，这是 Gulp.js 中的其中一个插件，本文的主题就是它了。 CNodeJS 相关地址 NPM GitHub Atom]]></content>
