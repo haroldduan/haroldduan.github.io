@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-14T03:51:12.000Z</updated>
+  <updated>2017-08-14T06:04:10.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,58 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Lazy Welfare -- LiveReload</title>
+    <link href="http://yoursite.com/2017/08/14/lazy-welfare-livereload/"/>
+    <id>http://yoursite.com/2017/08/14/lazy-welfare-livereload/</id>
+    <published>2017-08-14T05:29:34.000Z</published>
+    <updated>2017-08-14T06:04:10.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong><a href="http://livereload.com/" title="LiveReload" target="_blank" rel="external">LiveReload</a></strong><br><img src="/2017/08/14/lazy-welfare-livereload/lazy-welfare-livereload_0.png" width="50" height="50" alt="LiveReload" align="left"><br><br></p>
+<h3 id="懒人福利"><a href="#懒人福利" class="headerlink" title="懒人福利"></a>懒人福利</h3><ol>
+<li>安装LiveReload<br><a href="https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=zh-CN" title="Chrome Application" target="_blank" rel="external">Chrome Application</a><br><img src="/2017/08/14/lazy-welfare-livereload/lazy-welfare-livereload_5.png" alt=""> <a id="more"></a></li>
+<li><p>配置LiveReload</p>
+<ul>
+<li>添加网站文件夹路径<br><img src="/2017/08/14/lazy-welfare-livereload/lazy-welfare-livereload_6.png" alt=""> </li>
+<li>选择需要监视的文件<br><img src="/2017/08/14/lazy-welfare-livereload/lazy-welfare-livereload_7.png" alt=""> </li>
+</ul>
+</li>
+<li><p>启动LiveReload</p>
+</li>
+<li><p>LiveReload效果</p>
+<ul>
+<li>代码更改前页面<br><img src="/2017/08/14/lazy-welfare-livereload/lazy-welfare-livereload_1.png" alt=""> </li>
+<li>代码文件<br><img src="/2017/08/14/lazy-welfare-livereload/lazy-welfare-livereload_2.png" alt=""> </li>
+<li>代码更改后页面<br><img src="/2017/08/14/lazy-welfare-livereload/lazy-welfare-livereload_4.png" alt=""> </li>
+<li>代码文件<br><img src="/2017/08/14/lazy-welfare-livereload/lazy-welfare-livereload_3.png" alt=""> </li>
+</ul>
+</li>
+</ol>
+<h3 id="Node-js-利器"><a href="#Node-js-利器" class="headerlink" title="Node.js 利器"></a>Node.js 利器</h3><blockquote>
+<p>使用 gulp-livereload，可以实时保存刷新，那样就不用按F5和切换界面了，<br> 无形中省了好多时间，有没有！<br> Gulp.js：比 Grunt 更简单的自动化项目构建工具<br> gulp-livereload：顾名思义，这是 Gulp.js 中的其中一个插件，本文的主题就是它了。</p>
+</blockquote>
+<p><a href="https://cnodejs.org/topic/53427d16dc556e3b3901861e" title="CNodeJS" target="_blank" rel="external">CNodeJS</a></p>
+<p><strong><em>相关地址</em></strong></p>
+<blockquote>
+<p><a href="https://www.npmjs.com/package/livereload" title="NPM" target="_blank" rel="external">NPM</a><br> <a href="https://github.com/napcs/node-livereload" title="GitHub" target="_blank" rel="external">GitHub</a><br> <a href="https://atom.io/packages/livereload" title="Atom" target="_blank" rel="external">Atom</a></p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://livereload.com/&quot; title=&quot;LiveReload&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;LiveReload&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&lt;img src=&quot;/2017/08/14/lazy-welfare-livereload/lazy-welfare-livereload_0.png&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;LiveReload&quot; align=&quot;left&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3 id=&quot;懒人福利&quot;&gt;&lt;a href=&quot;#懒人福利&quot; class=&quot;headerlink&quot; title=&quot;懒人福利&quot;&gt;&lt;/a&gt;懒人福利&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;安装LiveReload&lt;br&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei?hl=zh-CN&quot; title=&quot;Chrome Application&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Chrome Application&lt;/a&gt;&lt;br&gt;&lt;img src=&quot;/2017/08/14/lazy-welfare-livereload/lazy-welfare-livereload_5.png&quot; alt=&quot;&quot;&gt;&lt;/li&gt;&lt;/ol&gt;
+    
+    </summary>
+    
+      <category term="Tech" scheme="http://yoursite.com/categories/Tech/"/>
+    
+    
+      <category term="Learning Memo" scheme="http://yoursite.com/tags/Learning-Memo/"/>
+    
+  </entry>
   
   <entry>
     <title>A Better Tomorrow II</title>
@@ -225,7 +277,7 @@
     <link href="http://yoursite.com/2017/08/12/the-peach-blossom-fan/"/>
     <id>http://yoursite.com/2017/08/12/the-peach-blossom-fan/</id>
     <published>2017-08-12T07:06:05.000Z</published>
-    <updated>2017-08-12T07:45:56.000Z</updated>
+    <updated>2017-08-14T05:44:38.000Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p><strong>俺曾见金陵玉殿莺啼晓，秦淮水榭花开早，谁知道容易冰消！</strong><br><strong>眼看他起朱楼，眼看他宴宾客，眼看他楼塌了！</strong><br><strong>这青苔碧瓦堆，俺曾睡风流觉，将五十年兴亡看饱。</strong><br><strong>那乌衣巷不姓王，莫愁湖鬼夜哭，凤凰台栖枭鸟。</strong><br><strong>残山梦最真，旧境丢难掉，不信这舆图换稿！</strong><br><strong>诌一套《哀江南》，放悲声唱到老。</strong></p>
