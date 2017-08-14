@@ -3,6 +3,7 @@ title: My annual goal in 2017
 date: 2017-08-14 14:43:07
 tags: Daily Note
 categories: Life
+comments: true
 ---
 
 - [ ] ***10月之前瘦掉10+KG***
