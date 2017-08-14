@@ -220,7 +220,7 @@
     <link href="http://yoursite.com/2017/08/14/operating-system/"/>
     <id>http://yoursite.com/2017/08/14/operating-system/</id>
     <published>2017-08-14T01:48:18.000Z</published>
-    <updated>2017-08-14T03:17:10.000Z</updated>
+    <updated>2017-08-14T09:33:13.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Operating-System"><a href="#Operating-System" class="headerlink" title="Operating System"></a><a href="https://zh.wikipedia.org/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F" title="Operating System" target="_blank" rel="external">Operating System</a></h2><p><img src="/2017/08/14/operating-system/operating-system-system_0.png" width="50" height="50" alt="Operating System" align="left"><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">操作系统（英语：operating system，缩写：OS）</div><div class="line">是管理计算机硬件与软件资源的计算机程序，同时也是计算机系统的内核与基石。</div><div class="line">操作系统需要处理如管理与配置内存、决定系统资源供需的优先次序、</div><div class="line">控制输入与输出装置、操作网络与管理文件系统等基本事务。</div><div class="line">操作系统也提供一个让使用者与系统互动的操作界面。</div></pre></td></tr></table></figure></p>
 <p><img src="/2017/08/14/operating-system/operating-system-system_1.png" width="50" height="50" alt="Operating System" align="left"><br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">操作系统的型态非常多样，不同机器安装的操作系统可从简单到复杂，</div><div class="line">可从非智能手机的嵌入式系统到超级电脑的大型操作系统。</div><div class="line">许多操作系统制造者对它涵盖范畴的定义也不尽一致，</div><div class="line">例如有些操作系统整合了图形用户界面，而有些仅使用命令行界面，</div><div class="line">而将图形用户界面视为一种非必要的应用程序。</div></pre></td></tr></table></figure></p>
@@ -322,8 +322,10 @@
     
     </summary>
     
+      <category term="Tech" scheme="http://yoursite.com/categories/Tech/"/>
     
-      <category term="Tech" scheme="http://yoursite.com/tags/Tech/"/>
+    
+      <category term="Learning Memo" scheme="http://yoursite.com/tags/Learning-Memo/"/>
     
   </entry>
   
@@ -332,7 +334,7 @@
     <link href="http://yoursite.com/2017/08/12/vim-cool-weapon/"/>
     <id>http://yoursite.com/2017/08/12/vim-cool-weapon/</id>
     <published>2017-08-12T07:59:21.000Z</published>
-    <updated>2017-08-12T08:39:05.000Z</updated>
+    <updated>2017-08-14T09:35:11.000Z</updated>
     
     <content type="html"><![CDATA[<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">Vim: Cool Weapon</div></pre></td></tr></table></figure>
 <a id="more"></a>
@@ -354,6 +356,10 @@
     
     </summary>
     
+      <category term="Tech" scheme="http://yoursite.com/categories/Tech/"/>
+    
+    
+      <category term="Learning Memo" scheme="http://yoursite.com/tags/Learning-Memo/"/>
     
   </entry>
   
@@ -362,7 +368,7 @@
     <link href="http://yoursite.com/2017/08/12/arch-summit/"/>
     <id>http://yoursite.com/2017/08/12/arch-summit/</id>
     <published>2017-08-12T07:42:37.000Z</published>
-    <updated>2017-08-12T08:42:57.000Z</updated>
+    <updated>2017-08-14T09:28:56.000Z</updated>
     
     <content type="html"><![CDATA[<p><a href="http://bj2016.archsummit.com/" title="ArchSummit 2016" target="_blank" rel="external">ArchSummit 2016</a></p>
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">ArchSummit全球架构师峰会是InfoQ中国团队推出的面向高端技术管理者、架构师的技术大会，</div><div class="line">参会者中超过50%拥有8年以上的工作经验。ArchSummit秉承“实践第一、案例为主”的原则，</div><div class="line">展示新技术在行业应用中的最新实践，技术在企业转型中的加速作用，</div><div class="line">帮助企业技术管理者、CTO、架构师做好技术选型、技术团队组建与管理，</div><div class="line">并确立技术对于产品和业务的关键作用。</div></pre></td></tr></table></figure>
@@ -380,6 +386,8 @@
     
     </summary>
     
+      <category term="Tech" scheme="http://yoursite.com/categories/Tech/"/>
+    
     
       <category term="Daily Note" scheme="http://yoursite.com/tags/Daily-Note/"/>
     
@@ -390,7 +398,7 @@
     <link href="http://yoursite.com/2017/08/12/the-peach-blossom-fan/"/>
     <id>http://yoursite.com/2017/08/12/the-peach-blossom-fan/</id>
     <published>2017-08-12T07:06:05.000Z</published>
-    <updated>2017-08-14T05:44:38.000Z</updated>
+    <updated>2017-08-14T09:29:30.000Z</updated>
     
     <content type="html"><![CDATA[<blockquote>
 <p><strong>俺曾见金陵玉殿莺啼晓，秦淮水榭花开早，谁知道容易冰消！</strong><br><strong>眼看他起朱楼，眼看他宴宾客，眼看他楼塌了！</strong><br><strong>这青苔碧瓦堆，俺曾睡风流觉，将五十年兴亡看饱。</strong><br><strong>那乌衣巷不姓王，莫愁湖鬼夜哭，凤凰台栖枭鸟。</strong><br><strong>残山梦最真，旧境丢难掉，不信这舆图换稿！</strong><br><strong>诌一套《哀江南》，放悲声唱到老。</strong></p>
@@ -405,6 +413,8 @@
     
     </summary>
     
+      <category term="Life" scheme="http://yoursite.com/categories/Life/"/>
+    
     
       <category term="Daily Note" scheme="http://yoursite.com/tags/Daily-Note/"/>
     
@@ -415,7 +425,7 @@
     <link href="http://yoursite.com/2017/08/12/coding-life/"/>
     <id>http://yoursite.com/2017/08/12/coding-life/</id>
     <published>2017-08-12T06:31:23.000Z</published>
-    <updated>2017-08-12T08:42:18.000Z</updated>
+    <updated>2017-08-14T09:36:04.000Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Docker-Study"><a href="#Docker-Study" class="headerlink" title="Docker Study"></a>Docker Study</h1><p><a href="https://hub.docker.com/" title="Docker" target="_blank" rel="external">Docker</a></p>
 <h3 id="Docker-简介"><a href="#Docker-简介" class="headerlink" title="Docker 简介"></a>Docker 简介</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">Docker是一个开源的引擎，</div><div class="line">可以轻松的为任何应用创建一个轻量级的、可移植的、自给自足的容器。</div><div class="line">开发者在笔记本上编译测试通过的容器可以批量地在生产环境中部署，</div><div class="line">包括VMs（虚拟机）、bare metal、OpenStack 集群和其他的基础应用平台</div></pre></td></tr></table></figure>
@@ -436,6 +446,8 @@
     
     </summary>
     
+      <category term="Tech" scheme="http://yoursite.com/categories/Tech/"/>
+    
     
       <category term="Learning Memo" scheme="http://yoursite.com/tags/Learning-Memo/"/>
     
@@ -446,7 +458,7 @@
     <link href="http://yoursite.com/2017/08/10/loving-coding/"/>
     <id>http://yoursite.com/2017/08/10/loving-coding/</id>
     <published>2017-08-10T02:37:53.000Z</published>
-    <updated>2017-08-10T13:00:39.000Z</updated>
+    <updated>2017-08-14T09:40:19.000Z</updated>
     
     <content type="html"><![CDATA[<h1 id="For-coding-for-life-for-future…"><a href="#For-coding-for-life-for-future…" class="headerlink" title="For coding,for life,for future…"></a>For coding,for life,for future…</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">It is the timing…</div><div class="line">New Beginning…</div><div class="line">New Coding…</div><div class="line">New Life…</div><div class="line">New Future….</div></pre></td></tr></table></figure>]]></content>
     
@@ -456,10 +468,10 @@
     
     </summary>
     
+      <category term="Life" scheme="http://yoursite.com/categories/Life/"/>
+    
     
       <category term="Daily Note" scheme="http://yoursite.com/tags/Daily-Note/"/>
-    
-      <category term="Life" scheme="http://yoursite.com/tags/Life/"/>
     
   </entry>
   
