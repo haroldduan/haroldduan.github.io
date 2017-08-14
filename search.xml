@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Vim Cheat Sheet]]></title>
+    <url>%2F2017%2F08%2F14%2Fvim-cheat-sheet%2F</url>
+    <content type="text"><![CDATA[Vim Vim Cheat Sheet Vimium Cheat SheetNavigating-the-current-page:123456789101112131415161718? show the help dialog for a list of all available keysh scroll leftj scroll downk scroll upl scroll rightgg scroll to top of the pageG scroll to bottom of the paged scroll down half a pageu scroll up half a pagef open a link in the current tabF open a link in a new tabr reloadgs view sourcei enter insert mode -- all commands will be ignored until you hit Esc to exityy copy the current url to the clipboardyf copy a link url to the clipboardgf cycle forward to the next framegF focus the main/top frame Navigating to new pages:123456789o Open URL, bookmark, or history entryO Open URL, bookmark, history entry in a new tabb Open bookmarkB Open bookmark in a new tabi enter insert mode -- all commands will be ignored until you hit Esc to exityy copy the current url to the clipboardyf copy a link url to the clipboardgf cycle forward to the next framegF focus the main/top frame Using find:1234/ enter find mode -- type your search query and hit enter to search, or Esc to canceln cycle forward to the next find matchN cycle backward to the previous find match Navigating your history:12H go back in historyL go forward in history Manipulating tabs:1234567891011J, gT go one tab leftK, gt go one tab rightg0 go to the first tabg$ go to the last tab^ visit the previously-visited tabt create tabyt duplicate current tabx close current tabX restore closed tab (i.e. unwind the &apos;x&apos; command)T search through your open tabs&lt;a-p&gt; pin/unpin current tab Using marks:1234ma, mA set local mark &quot;a&quot; (global mark &quot;A&quot;)`a, `A jump to local mark &quot;a&quot; (global mark &quot;A&quot;)`` jump back to the position before the previous jump -- that is, before the previous gg, G, n, N, / or `a Additional advanced browsing commands:123456789101112]], [[ Follow the link labeled &apos;next&apos; or &apos;&gt;&apos; (&apos;previous&apos; or &apos;&lt;&apos;) - helpful for browsing paginated sites&lt;a-f&gt; open multiple links in a new tabgi focus the first (or n-th) text input box on the pagegu go up one level in the URL hierarchygU go up to root of the URL hierarchyge edit the current URLgE edit the current URL and open in a new tabzH scroll all the way leftzL scroll all the way rightv enter visual mode; use p/P to paste-and-go, use y to yankV enter visual line mode]]></content>
+      <categories>
+        <category>Tech</category>
+      </categories>
+      <tags>
+        <tag>Study</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[My annual goal in 2017]]></title>
     <url>%2F2017%2F08%2F14%2Fannual-goal%2F</url>
     <content type="text"><![CDATA[10月之前瘦掉10+KG 每天看5+页书 每周书写700+行代码 每周书写1+篇博客 部门盈利目标、人均单产目标 学习并使用Vim And more … Don’t forget the early heart side was always!]]></content>

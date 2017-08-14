@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-14T07:18:12.000Z</updated>
+  <updated>2017-08-14T08:26:33.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,44 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Vim Cheat Sheet</title>
+    <link href="http://yoursite.com/2017/08/14/vim-cheat-sheet/"/>
+    <id>http://yoursite.com/2017/08/14/vim-cheat-sheet/</id>
+    <published>2017-08-14T08:04:15.000Z</published>
+    <updated>2017-08-14T08:26:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Vim"><a href="#Vim" class="headerlink" title="Vim"></a><strong>Vim</strong></h1><p><img src="/2017/08/14/vim-cheat-sheet/vim-cheat-sheet_0.png" width="50" height="50" alt="" align="left"><br></p>
+<a id="more"></a>
+<h2 id="Vim-Cheat-Sheet"><a href="#Vim-Cheat-Sheet" class="headerlink" title="Vim Cheat Sheet"></a><strong>Vim Cheat Sheet</strong></h2>
+
+	<div class="row">
+    <embed src="./vim-cheat-sheet.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+
+<h2 id="Vimium-Cheat-Sheet"><a href="#Vimium-Cheat-Sheet" class="headerlink" title="Vimium Cheat Sheet"></a><strong>Vimium Cheat Sheet</strong></h2><h3 id="Navigating-the-current-page"><a href="#Navigating-the-current-page" class="headerlink" title="Navigating-the-current-page:"></a>Navigating-the-current-page:</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div></pre></td><td class="code"><pre><div class="line">?       show the help dialog for a list of all available keys</div><div class="line">h       scroll left</div><div class="line">j       scroll down</div><div class="line">k       scroll up</div><div class="line">l       scroll right</div><div class="line">gg      scroll to top of the page</div><div class="line">G       scroll to bottom of the page</div><div class="line">d       scroll down half a page</div><div class="line">u       scroll up half a page</div><div class="line">f       open a link in the current tab</div><div class="line">F       open a link in a new tab</div><div class="line">r       reload</div><div class="line">gs      view source</div><div class="line">i       enter insert mode -- all commands will be ignored until you hit Esc to exit</div><div class="line">yy      copy the current url to the clipboard</div><div class="line">yf      copy a link url to the clipboard</div><div class="line">gf      cycle forward to the next frame</div><div class="line">gF      focus the main/top frame</div></pre></td></tr></table></figure>
+<h3 id="Navigating-to-new-pages"><a href="#Navigating-to-new-pages" class="headerlink" title="Navigating to new pages:"></a>Navigating to new pages:</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line">o       Open URL, bookmark, or history entry</div><div class="line">O       Open URL, bookmark, history entry in a new tab</div><div class="line">b       Open bookmark</div><div class="line">B       Open bookmark in a new tab</div><div class="line">i       enter insert mode -- all commands will be ignored until you hit Esc to exit</div><div class="line">yy      copy the current url to the clipboard</div><div class="line">yf      copy a link url to the clipboard</div><div class="line">gf      cycle forward to the next frame</div><div class="line">gF      focus the main/top frame</div></pre></td></tr></table></figure>
+<h3 id="Using-find"><a href="#Using-find" class="headerlink" title="Using find:"></a>Using find:</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">/       enter find mode</div><div class="line">          -- type your search query and hit enter to search, or Esc to cancel</div><div class="line">n       cycle forward to the next find match</div><div class="line">N       cycle backward to the previous find match</div></pre></td></tr></table></figure>
+<h3 id="Navigating-your-history"><a href="#Navigating-your-history" class="headerlink" title="Navigating your history:"></a>Navigating your history:</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">H       go back in history</div><div class="line">L       go forward in history</div></pre></td></tr></table></figure>
+<h3 id="Manipulating-tabs"><a href="#Manipulating-tabs" class="headerlink" title="Manipulating tabs:"></a>Manipulating tabs:</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div></pre></td><td class="code"><pre><div class="line">J, gT   go one tab left</div><div class="line">K, gt   go one tab right</div><div class="line">g0      go to the first tab</div><div class="line">g$      go to the last tab</div><div class="line">^       visit the previously-visited tab</div><div class="line">t       create tab</div><div class="line">yt      duplicate current tab</div><div class="line">x       close current tab</div><div class="line">X       restore closed tab (i.e. unwind the &apos;x&apos; command)</div><div class="line">T       search through your open tabs</div><div class="line">&lt;a-p&gt;   pin/unpin current tab</div></pre></td></tr></table></figure>
+<h3 id="Using-marks"><a href="#Using-marks" class="headerlink" title="Using marks:"></a>Using marks:</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">ma, mA  set local mark &quot;a&quot; (global mark &quot;A&quot;)</div><div class="line">`a, `A  jump to local mark &quot;a&quot; (global mark &quot;A&quot;)</div><div class="line">``      jump back to the position before the previous jump</div><div class="line">          -- that is, before the previous gg, G, n, N, / or `a</div></pre></td></tr></table></figure>
+<h3 id="Additional-advanced-browsing-commands"><a href="#Additional-advanced-browsing-commands" class="headerlink" title="Additional advanced browsing commands:"></a>Additional advanced browsing commands:</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div></pre></td><td class="code"><pre><div class="line">]], [[  Follow the link labeled &apos;next&apos; or &apos;&gt;&apos; (&apos;previous&apos; or &apos;&lt;&apos;)</div><div class="line">          - helpful for browsing paginated sites</div><div class="line">&lt;a-f&gt;   open multiple links in a new tab</div><div class="line">gi      focus the first (or n-th) text input box on the page</div><div class="line">gu      go up one level in the URL hierarchy</div><div class="line">gU      go up to root of the URL hierarchy</div><div class="line">ge      edit the current URL</div><div class="line">gE      edit the current URL and open in a new tab</div><div class="line">zH      scroll all the way left</div><div class="line">zL      scroll all the way right</div><div class="line">v       enter visual mode; use p/P to paste-and-go, use y to yank</div><div class="line">V       enter visual line mode</div></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Vim&quot;&gt;&lt;a href=&quot;#Vim&quot; class=&quot;headerlink&quot; title=&quot;Vim&quot;&gt;&lt;/a&gt;&lt;strong&gt;Vim&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/2017/08/14/vim-cheat-sheet/vim-cheat-sheet_0.png&quot; width=&quot;50&quot; height=&quot;50&quot; alt=&quot;&quot; align=&quot;left&quot;&gt;&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Tech" scheme="http://yoursite.com/categories/Tech/"/>
+    
+    
+      <category term="Study" scheme="http://yoursite.com/tags/Study/"/>
+    
+  </entry>
   
   <entry>
     <title>My annual goal in 2017</title>
