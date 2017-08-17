@@ -3,6 +3,7 @@ title: A Better Tomorrow II
 date: 2017-08-14 11:33:21
 tags: Movie-Appreciation
 categories: Life
+comments: true
 ---
 
 [A Better Tomorrow II][lnk_a-better-tomorrow-ii]

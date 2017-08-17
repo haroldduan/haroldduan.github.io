@@ -3,6 +3,7 @@ title: New Testament ·［Mk］Mark
 date: 2017-08-14 14:21:17
 tags: Daily Note
 categories: Life
+comments: true
 ---
 
 >They sent some Pharisees and Herodians to him to ensnare him in his speech.

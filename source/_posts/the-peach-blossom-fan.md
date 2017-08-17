@@ -4,6 +4,7 @@ date: 2017-08-12 15:06:05
 tags: 
     - Daily Note
 categories: Life
+comments: true
 ---
 
 >**俺曾见金陵玉殿莺啼晓，秦淮水榭花开早，谁知道容易冰消！**

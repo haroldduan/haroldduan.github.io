@@ -3,6 +3,7 @@ title: Lazy Welfare -- LiveReload
 date: 2017-08-14 13:29:34
 tags: Learning Memo
 categories: Tech
+comments: true
 ---
 
 **[LiveReload][lnk_LiveReload]**

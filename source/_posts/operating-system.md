@@ -3,6 +3,7 @@ title: Operating System
 date: 2017-08-14 09:48:18
 tags: Learning Memo
 categories: Tech
+comments: true
 ---
 
 ## [Operating System][lnk_OSWiki]

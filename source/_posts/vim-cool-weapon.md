@@ -3,6 +3,7 @@ title: Vim
 date: 2017-08-12 15:59:21
 tags: Learning Memo
 categories: Tech
+comments: true
 ---
 
 ```
