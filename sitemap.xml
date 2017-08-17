@@ -2,6 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2017-08-17T06:43:04.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2017-08-17T06:42:52.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2017-08-17T06:42:34.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/08/14/vim-cheat-sheet/</loc>
+    
+    <lastmod>2017-08-17T06:42:08.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/08/12/vim-cool-weapon/</loc>
+    
+    <lastmod>2017-08-17T06:42:04.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/08/10/loving-coding/</loc>
+    
+    <lastmod>2017-08-17T06:41:40.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/08/12/coding-life/</loc>
+    
+    <lastmod>2017-08-17T06:41:13.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/08/12/the-peach-blossom-fan/</loc>
+    
+    <lastmod>2017-08-17T06:40:51.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/08/14/operating-system/</loc>
+    
+    <lastmod>2017-08-17T06:40:28.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/08/14/new-testament/</loc>
+    
+    <lastmod>2017-08-17T06:40:17.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/08/14/lazy-welfare-livereload/</loc>
+    
+    <lastmod>2017-08-17T06:40:04.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/08/12/arch-summit/</loc>
+    
+    <lastmod>2017-08-17T06:39:02.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/08/14/a-better-tomorrow-ii/</loc>
+    
+    <lastmod>2017-08-17T06:38:49.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2017/08/14/annual-goal/</loc>
     
     <lastmod>2017-08-14T09:49:42.000Z</lastmod>
@@ -9,100 +100,9 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/08/10/loving-coding/</loc>
-    
-    <lastmod>2017-08-14T09:40:19.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/08/12/coding-life/</loc>
-    
-    <lastmod>2017-08-14T09:36:04.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/08/12/vim-cool-weapon/</loc>
-    
-    <lastmod>2017-08-14T09:35:11.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/08/14/operating-system/</loc>
-    
-    <lastmod>2017-08-14T09:33:13.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/08/12/the-peach-blossom-fan/</loc>
-    
-    <lastmod>2017-08-14T09:29:30.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/08/12/arch-summit/</loc>
-    
-    <lastmod>2017-08-14T09:28:56.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/08/14/vim-cheat-sheet/</loc>
-    
-    <lastmod>2017-08-14T08:26:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/08/14/new-testament/</loc>
-    
-    <lastmod>2017-08-14T06:35:18.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/08/14/lazy-welfare-livereload/</loc>
-    
-    <lastmod>2017-08-14T06:04:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/08/14/a-better-tomorrow-ii/</loc>
-    
-    <lastmod>2017-08-14T03:51:12.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/about/index.html</loc>
-    
-    <lastmod>2017-08-12T07:29:23.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/404/index.html</loc>
     
     <lastmod>2017-08-10T04:00:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/categories/index.html</loc>
-    
-    <lastmod>2017-08-10T03:09:32.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/tags/index.html</loc>
-    
-    <lastmod>2017-08-10T03:05:37.000Z</lastmod>
     
   </url>
   
